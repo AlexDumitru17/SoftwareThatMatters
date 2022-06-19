@@ -645,5 +645,5 @@ MigrationBackup/
 .ionide/
 .idea*
 .idea
-/data/
+/data/input
 # End of https://www.toptal.com/developers/gitignore/api/python,go,vs,intellij

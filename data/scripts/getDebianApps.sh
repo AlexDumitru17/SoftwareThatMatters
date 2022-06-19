@@ -1,0 +1,1 @@
+grep -vxF -f <(aptitude search '?tag(role::shared-lib)' -F%p) <(apt-file -l search /usr/bin) > ../input/applications.txt
